@@ -18,6 +18,7 @@ Using Extensions
 
 * extract **yii-floating-fixed** to extensions folder
 * in your view
+
 ```php
 <?php
 $this->widget('ext.floatingFixed.FloatingFixed', array(
